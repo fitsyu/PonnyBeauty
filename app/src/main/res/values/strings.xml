@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ponny Beauty</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_to_deck">Add to Deck</string>
+    <string name="action_try">Try</string>
+    <string name="backdrop_title">Ponny Beauty</string>
+    <string name="backdrop_subtitle">"the eternal beauty tool"</string>
+    <string name="title_activity_details">Item Details</string>
+    <string name="title_activity_make_up">Make Up</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
